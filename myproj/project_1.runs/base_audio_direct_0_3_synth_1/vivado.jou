@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Jan 25 11:46:13 2026
+# Process ID: 16400
+# Current directory: C:/Xilinx/PYNQ/boards/Pynq-Z1/base/myproj/project_1.runs/base_audio_direct_0_3_synth_1
+# Command line: vivado.exe -log base_audio_direct_0_3.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source base_audio_direct_0_3.tcl
+# Log file: C:/Xilinx/PYNQ/boards/Pynq-Z1/base/myproj/project_1.runs/base_audio_direct_0_3_synth_1/base_audio_direct_0_3.vds
+# Journal file: C:/Xilinx/PYNQ/boards/Pynq-Z1/base/myproj/project_1.runs/base_audio_direct_0_3_synth_1\vivado.jou
+#-----------------------------------------------------------
+source base_audio_direct_0_3.tcl -notrace
