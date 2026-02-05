@@ -752,11 +752,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Jan 25 11:46:07 UTC 2026</spirit:value>
+            <spirit:value>Thu Feb 05 19:52:05 UTC 2026</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:2da5c9a3</spirit:value>
+            <spirit:value>9:0e12a4b6</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -767,7 +767,7 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:2da5c9a3</spirit:value>
+            <spirit:value>9:0e12a4b6</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -783,11 +783,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Jan 25 11:46:07 UTC 2026</spirit:value>
+            <spirit:value>Thu Feb 05 19:52:05 UTC 2026</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:2da5c9a3</spirit:value>
+            <spirit:value>9:0e12a4b6</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -803,11 +803,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Jan 25 11:46:07 UTC 2026</spirit:value>
+            <spirit:value>Thu Feb 05 19:52:05 UTC 2026</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:6660a9d4</spirit:value>
+            <spirit:value>9:c0388549</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -823,11 +823,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Jan 25 11:46:07 UTC 2026</spirit:value>
+            <spirit:value>Thu Feb 05 19:52:53 UTC 2026</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:6660a9d4</spirit:value>
+            <spirit:value>9:c0388549</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -841,11 +841,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Sun Jan 25 11:46:58 UTC 2026</spirit:value>
+            <spirit:value>Thu Feb 05 19:53:51 UTC 2026</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:2da5c9a3</spirit:value>
+            <spirit:value>9:0e12a4b6</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1314,15 +1314,15 @@
         <spirit:userFileType>CELL_NAME_audio_direct_v1_1_S_AXI_inst/pdm_rxtx_inst/Inst_PdmTxFifo/fifo_generator_1</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/dbdf/src/PdmDes.v</spirit:name>
+        <spirit:name>../../ipshared/dd1c/src/PdmDes.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/dbdf/src/PdmSer.v</spirit:name>
+        <spirit:name>../../ipshared/dd1c/src/PdmSer.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/dbdf/src/audio_direct_path.v</spirit:name>
+        <spirit:name>../../ipshared/dd1c/src/audio_direct_path.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1338,7 +1338,7 @@
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/dbdf/hdl/audio_direct_v1_1.v</spirit:name>
+        <spirit:name>../../ipshared/dd1c/hdl/audio_direct_v1_1.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
     </spirit:fileSet>
@@ -1363,15 +1363,15 @@
         <spirit:userFileType>CELL_NAME_audio_direct_v1_1_S_AXI_inst/pdm_rxtx_inst/Inst_PdmTxFifo/fifo_generator_1</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/dbdf/src/PdmDes.v</spirit:name>
+        <spirit:name>../../ipshared/dd1c/src/PdmDes.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/dbdf/src/PdmSer.v</spirit:name>
+        <spirit:name>../../ipshared/dd1c/src/PdmSer.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/dbdf/src/audio_direct_path.v</spirit:name>
+        <spirit:name>../../ipshared/dd1c/src/audio_direct_path.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1387,7 +1387,7 @@
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/dbdf/hdl/audio_direct_v1_1.v</spirit:name>
+        <spirit:name>../../ipshared/dd1c/hdl/audio_direct_v1_1.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
     </spirit:fileSet>
@@ -1500,7 +1500,7 @@
         <xilinx:xpmLibrary>XPM_CDC</xilinx:xpmLibrary>
         <xilinx:xpmLibrary>XPM_MEMORY</xilinx:xpmLibrary>
       </xilinx:xpmLibraries>
-      <xilinx:coreRevision>9</xilinx:coreRevision>
+      <xilinx:coreRevision>22</xilinx:coreRevision>
       <xilinx:tags>
         <xilinx:tag xilinx:name="xilinx.com:user:audio_direct:1.1_ARCHIVE_LOCATION">c:/xup/PYNQ_2_1_2017_4/boards/ip/audio_direct_1.1</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@1d71f164_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
@@ -1592,6 +1592,145 @@
         <xilinx:tag xilinx:name="ui.data.coregen.dd@3c97309c_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@39f9087a_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@16402c35_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@36984170_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7fb36dd3_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2fec2ed1_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2a23899b_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@39b0aa7_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@46b0c2ee_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@29a68d4a_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7aa8851e_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2352995b_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@32abc714_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@649ff684_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@40b2912c_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@412b8529_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7d74e7d_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7977bc6e_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@24b78da3_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@34e22774_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@75a18cdd_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@50c0605d_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2fb758d1_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@385d79f6_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2339d481_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4cb9ae71_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1b1671dc_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1e62567f_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@325a3473_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6153bdd1_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@24957108_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7035f425_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@274fbffc_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@30752c04_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5621a8a6_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3836e4a2_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4a95d087_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4cc0d9ce_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@13b00793_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@577d4b24_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@224ea888_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@45b63ab8_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@47554756_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@58a5f984_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7284b014_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@38c8821f_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2c0226f8_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4b04cfab_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@44d1259e_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7fe154ae_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@59e34a43_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@58ddb402_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2cbc3203_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@266c33e8_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2066fbbd_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1397600e_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@70cd6c0c_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@373cf08_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5c99c4b7_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2254d1d7_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@530c116d_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@712bc199_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2e6f8dcb_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2622236b_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5159fdd9_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7b0bf9cb_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3a680044_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4bd78b37_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@68b28b28_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@330cb899_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6024db3c_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2159e59d_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4e98e128_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@16a8056_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@231a13c7_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1627b216_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@46c5d427_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@34e77f22_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@16ad6699_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@50aa6e95_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6192183a_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6eabb080_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3f56df1_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@52f748ec_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@930d774_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6c5d1209_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@51b3e666_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2c78c1e9_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2fa3477a_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@65d46bc8_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@39ae7db8_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@57f5502c_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@54c853f0_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@535063df_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3c082111_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4eaf3864_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@79ea7239_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1badb386_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@607acdc0_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@28e990eb_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5a8ffe31_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1a7103d3_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2ddfd219_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4803fe3d_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@21305934_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@be808d_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6aaaec01_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@77ffc8d9_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@25b4c36a_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3864dc53_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@77065dba_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@28cfb767_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4f931410_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@659eff9e_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@41408872_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@754b7ba4_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@599dd3ee_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5dcd1d7_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@467c03aa_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2e937bee_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3b95e682_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@9a085bd_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4cdd2ac0_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@411aebcd_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@38f8f584_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5411d0d2_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3a29857f_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1b107ab1_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@114285ae_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7bf35c7d_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@e7ffd_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2e88722a_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7c95270c_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4530de62_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@17cb42d0_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@319305fe_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1051c828_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@667edfe5_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@493964d9_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3c0cea2b_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2ba5a801_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2bb95e8_ARCHIVE_LOCATION">c:/Xilinx/PYNQ/boards/ip/audio_direct_1.1</xilinx:tag>
       </xilinx:tags>
       <xilinx:configElementInfos>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.MIC_CLK.ASSOCIATED_BUSIF" xilinx:valuePermission="bd"/>
@@ -1651,7 +1790,7 @@
       <xilinx:xilinxVersion>2020.2</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="c6bbb157"/>
       <xilinx:checksum xilinx:scope="memoryMaps" xilinx:value="c30980da"/>
-      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="611e6929"/>
+      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="f54803f2"/>
       <xilinx:checksum xilinx:scope="ports" xilinx:value="25d63415"/>
       <xilinx:checksum xilinx:scope="hdlParameters" xilinx:value="beb0739b"/>
       <xilinx:checksum xilinx:scope="parameters" xilinx:value="a36f5155"/>

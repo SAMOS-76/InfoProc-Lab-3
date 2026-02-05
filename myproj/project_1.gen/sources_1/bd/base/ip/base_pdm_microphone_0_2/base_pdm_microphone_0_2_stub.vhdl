@@ -1,10 +1,10 @@
 -- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
 -- --------------------------------------------------------------------------------
 -- Tool Version: Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
--- Date        : Mon Feb  2 15:56:58 2026
--- Host        : DESKTOP-P70A3BJ running 64-bit major release  (build 9200)
--- Command     : write_vhdl -force -mode synth_stub
---               c:/Users/soseb/Downloads/wetransfer_labs_2026-02-02_1352/PYNQ/boards/Pynq-Z1/base/myproj/project_1.gen/sources_1/bd/base/ip/base_pdm_microphone_0_2/base_pdm_microphone_0_2_stub.vhdl
+-- Date        : Sun Jan 25 11:11:25 2026
+-- Host        : NH running 64-bit major release  (build 9200)
+-- Command     : write_vhdl -force -mode synth_stub -rename_top base_pdm_microphone_0_2 -prefix
+--               base_pdm_microphone_0_2_ base_pdm_microphone_0_2_stub.vhdl
 -- Design      : base_pdm_microphone_0_2
 -- Purpose     : Stub declaration of top-level module interface
 -- Device      : xc7z020clg400-1

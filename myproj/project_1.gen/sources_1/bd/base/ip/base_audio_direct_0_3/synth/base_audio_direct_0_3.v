@@ -48,11 +48,11 @@
 
 
 // IP VLNV: xilinx.com:user:audio_direct:1.1
-// IP Revision: 9
+// IP Revision: 22
 
 (* X_CORE_INFO = "audio_direct_v1_1,Vivado 2020.2" *)
 (* CHECK_LICENSE_TYPE = "base_audio_direct_0_3,audio_direct_v1_1,{}" *)
-(* CORE_GENERATION_INFO = "base_audio_direct_0_3,audio_direct_v1_1,{x_ipProduct=Vivado 2020.2,x_ipVendor=xilinx.com,x_ipLibrary=user,x_ipName=audio_direct,x_ipVersion=1.1,x_ipCoreRevision=9,x_ipLanguage=VERILOG,x_ipSimLanguage=MIXED,C_S_AXI_DATA_WIDTH=32,C_S_AXI_ADDR_WIDTH=5}" *)
+(* CORE_GENERATION_INFO = "base_audio_direct_0_3,audio_direct_v1_1,{x_ipProduct=Vivado 2020.2,x_ipVendor=xilinx.com,x_ipLibrary=user,x_ipName=audio_direct,x_ipVersion=1.1,x_ipCoreRevision=22,x_ipLanguage=VERILOG,x_ipSimLanguage=MIXED,C_S_AXI_DATA_WIDTH=32,C_S_AXI_ADDR_WIDTH=5}" *)
 (* DowngradeIPIdentifiedWarnings = "yes" *)
 module base_audio_direct_0_3 (
   sel_direct,

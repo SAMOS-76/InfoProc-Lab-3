@@ -2,11 +2,11 @@
 # Vivado v2020.2 (64-bit)
 # SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
 # IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
-# Start of session at: Mon Feb  2 16:08:48 2026
-# Process ID: 29032
-# Current directory: C:/Users/soseb/Downloads/wetransfer_labs_2026-02-02_1352/PYNQ/boards/Pynq-Z1/base/myproj/project_1.runs/synth_1
+# Start of session at: Thu Feb  5 19:53:52 2026
+# Process ID: 31380
+# Current directory: C:/Xilinx/PYNQ/boards/Pynq-Z1/base/InfoProc-Lab-3/myproj/project_1.runs/synth_1
 # Command line: vivado.exe -log base_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source base_wrapper.tcl
-# Log file: C:/Users/soseb/Downloads/wetransfer_labs_2026-02-02_1352/PYNQ/boards/Pynq-Z1/base/myproj/project_1.runs/synth_1/base_wrapper.vds
-# Journal file: C:/Users/soseb/Downloads/wetransfer_labs_2026-02-02_1352/PYNQ/boards/Pynq-Z1/base/myproj/project_1.runs/synth_1\vivado.jou
+# Log file: C:/Xilinx/PYNQ/boards/Pynq-Z1/base/InfoProc-Lab-3/myproj/project_1.runs/synth_1/base_wrapper.vds
+# Journal file: C:/Xilinx/PYNQ/boards/Pynq-Z1/base/InfoProc-Lab-3/myproj/project_1.runs/synth_1\vivado.jou
 #-----------------------------------------------------------
 source base_wrapper.tcl -notrace

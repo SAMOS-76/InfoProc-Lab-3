@@ -3,25 +3,15 @@ verilog xil_defaultlib --include "C:/Xilinx/Vivado/2020.2/data/xilinx_vip/includ
 "../../../../project_1.gen/sources_1/bd/base/ip/base_ps7_0_0/sim/base_ps7_0_0.v" \
 "../../../../project_1.gen/sources_1/bd/base/ip/base_xbar_0/sim/base_xbar_0.v" \
 "../../../../project_1.gen/sources_1/bd/base/ip/base_ila_0_1/sim/base_ila_0_1.v" \
-"../../../../project_1.gen/sources_1/bd/base/ipshared/cf25/new/pdm_clk_gen.v" \
-"../../../../project_1.gen/sources_1/bd/base/ipshared/cf25/imports/Downloads/pdm_mic.v" \
+"../../../../project_1.gen/sources_1/bd/base/ipshared/0a74/new/pdm_clk_gen.v" \
+"../../../../project_1.gen/sources_1/bd/base/ipshared/0a74/imports/Downloads/pdm_mic.v" \
 "../../../../project_1.gen/sources_1/bd/base/ip/base_pdm_microphone_0_2/sim/base_pdm_microphone_0_2.v" \
-"../../../../project_1.gen/sources_1/bd/base/ip/base_audio_direct_0_3/src/fifo_generator_0_1/sim/fifo_generator_0.v" \
-"../../../../project_1.gen/sources_1/bd/base/ip/base_audio_direct_0_3/src/fifo_generator_1_1/sim/fifo_generator_1.v" \
-"../../../../project_1.gen/sources_1/bd/base/ipshared/dbdf/src/PdmDes.v" \
-"../../../../project_1.gen/sources_1/bd/base/ipshared/dbdf/src/PdmSer.v" \
-"../../../../project_1.gen/sources_1/bd/base/ipshared/dbdf/src/audio_direct_path.v" \
-"../../../../project_1.gen/sources_1/bd/base/Pynq-Z1/base/audio_direct_v1_1_S00_AXI.v" \
-"../../../../project_1.gen/sources_1/bd/base/Pynq-Z1/base/pdm_rxtx.v" \
-"../../../../project_1.gen/sources_1/bd/base/Pynq-Z1/base/pdm_ser.v" \
-"../../../../project_1.gen/sources_1/bd/base/ipshared/dbdf/hdl/audio_direct_v1_1.v" \
-"../../../../project_1.gen/sources_1/bd/base/ip/base_audio_direct_0_3/sim/base_audio_direct_0_3.v" \
-"../../../../project_1.gen/sources_1/bd/base/ip/base_auto_pc_0/sim/base_auto_pc_0.v" \
-"../../../../project_1.gen/sources_1/bd/base/ip/base_auto_cc_0/sim/base_auto_cc_0.v" \
-"../../../../project_1.gen/sources_1/bd/base/ip/base_auto_pc_1/sim/base_auto_pc_1.v" \
-"../../../../project_1.gen/sources_1/bd/base/ip/base_s00_mmu_0/sim/base_s00_mmu_0.v" \
-"../../../../project_1.gen/sources_1/bd/base/ip/base_s01_mmu_0/sim/base_s01_mmu_0.v" \
-"../../../../project_1.gen/sources_1/bd/base/sim/base.v" \
+"c:/Xilinx/PYNQ/boards/Pynq-Z1/base/InfoProc-Lab-3/myproj/project_1.gen/sources_1/bd/base/ip/base_audio_direct_0_3/base_audio_direct_0_3_sim_netlist.v" \
+"../../../../project_1.gen/sources_1/bd/base/ip/base_auto_pc_0/base_auto_pc_0_sim_netlist.v" \
+"../../../../project_1.gen/sources_1/bd/base/ip/base_auto_cc_0/base_auto_cc_0_sim_netlist.v" \
+"../../../../project_1.gen/sources_1/bd/base/ip/base_auto_pc_1/base_auto_pc_1_sim_netlist.v" \
+"../../../../project_1.gen/sources_1/bd/base/ip/base_s00_mmu_0/base_s00_mmu_0_sim_netlist.v" \
+"../../../../project_1.gen/sources_1/bd/base/ip/base_s01_mmu_0/base_s01_mmu_0_sim_netlist.v" \
 
 verilog xil_defaultlib "glbl.v"
 

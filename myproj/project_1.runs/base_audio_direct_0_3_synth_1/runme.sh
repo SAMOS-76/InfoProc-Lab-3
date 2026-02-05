@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Xilinx/PYNQ/boards/Pynq-Z1/base/myproj/project_1.runs/base_audio_direct_0_3_synth_1'
+HD_PWD='C:/Xilinx/PYNQ/boards/Pynq-Z1/base/InfoProc-Lab-3/myproj/project_1.runs/base_audio_direct_0_3_synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

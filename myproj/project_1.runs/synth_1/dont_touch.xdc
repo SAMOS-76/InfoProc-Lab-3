@@ -27,14 +27,14 @@ set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==base_rst_ps
 # IP: bd/base/ip/base_ila_0_1/base_ila_0_1.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==base_ila_0_1 || ORIG_REF_NAME==base_ila_0_1} -quiet] -quiet
 
+# IP: bd/base/ip/base_axi_gpio_0_2/base_axi_gpio_0_2.xci
+set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==base_axi_gpio_0_2 || ORIG_REF_NAME==base_axi_gpio_0_2} -quiet] -quiet
+
 # IP: bd/base/ip/base_pdm_microphone_0_2/base_pdm_microphone_0_2.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==base_pdm_microphone_0_2 || ORIG_REF_NAME==base_pdm_microphone_0_2} -quiet] -quiet
 
 # IP: bd/base/ip/base_audio_direct_0_3/base_audio_direct_0_3.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==base_audio_direct_0_3 || ORIG_REF_NAME==base_audio_direct_0_3} -quiet] -quiet
-
-# IP: bd/base/ip/base_axi_gpio_0_2/base_axi_gpio_0_2.xci
-set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==base_axi_gpio_0_2 || ORIG_REF_NAME==base_axi_gpio_0_2} -quiet] -quiet
 
 # IP: bd/base/ip/base_auto_pc_0/base_auto_pc_0.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==base_auto_pc_0 || ORIG_REF_NAME==base_auto_pc_0} -quiet] -quiet
@@ -51,4 +51,4 @@ set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==base_s00_mm
 # IP: bd/base/ip/base_s01_mmu_0/base_s01_mmu_0.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==base_s01_mmu_0 || ORIG_REF_NAME==base_s01_mmu_0} -quiet] -quiet
 
-# XDC: c:/Users/soseb/Downloads/wetransfer_labs_2026-02-02_1352/PYNQ/boards/Pynq-Z1/base/myproj/project_1.gen/sources_1/bd/base/base_ooc.xdc
+# XDC: c:/Xilinx/PYNQ/boards/Pynq-Z1/base/InfoProc-Lab-3/myproj/project_1.gen/sources_1/bd/base/base_ooc.xdc

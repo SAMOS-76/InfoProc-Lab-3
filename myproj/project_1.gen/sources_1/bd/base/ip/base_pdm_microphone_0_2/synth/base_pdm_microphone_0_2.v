@@ -48,11 +48,11 @@
 
 
 // IP VLNV: xilinx.com:user:pdm_microphone:1.0
-// IP Revision: 2
+// IP Revision: 3
 
 (* X_CORE_INFO = "pdm_microphone,Vivado 2020.2" *)
 (* CHECK_LICENSE_TYPE = "base_pdm_microphone_0_2,pdm_microphone,{}" *)
-(* CORE_GENERATION_INFO = "base_pdm_microphone_0_2,pdm_microphone,{x_ipProduct=Vivado 2020.2,x_ipVendor=xilinx.com,x_ipLibrary=user,x_ipName=pdm_microphone,x_ipVersion=1.0,x_ipCoreRevision=2,x_ipLanguage=VERILOG,x_ipSimLanguage=MIXED,INPUT_FREQ=50000000,PDM_FREQ=2400000}" *)
+(* CORE_GENERATION_INFO = "base_pdm_microphone_0_2,pdm_microphone,{x_ipProduct=Vivado 2020.2,x_ipVendor=xilinx.com,x_ipLibrary=user,x_ipName=pdm_microphone,x_ipVersion=1.0,x_ipCoreRevision=3,x_ipLanguage=VERILOG,x_ipSimLanguage=MIXED,INPUT_FREQ=50000000,PDM_FREQ=2400000}" *)
 (* IP_DEFINITION_SOURCE = "package_project" *)
 (* DowngradeIPIdentifiedWarnings = "yes" *)
 module base_pdm_microphone_0_2 (
@@ -68,7 +68,7 @@ module base_pdm_microphone_0_2 (
 (* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME clk, FREQ_HZ 50000000, FREQ_TOLERANCE_HZ 0, PHASE 0.000, CLK_DOMAIN base_ps7_0_0_FCLK_CLK0, INSERT_VIP 0" *)
 (* X_INTERFACE_INFO = "xilinx.com:signal:clock:1.0 clk CLK" *)
 input wire clk;
-(* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME rst, POLARITY ACTIVE_LOW, INSERT_VIP 0" *)
+(* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME rst, POLARITY ACTIVE_HIGH, INSERT_VIP 0" *)
 (* X_INTERFACE_INFO = "xilinx.com:signal:reset:1.0 rst RST" *)
 input wire rst;
 output wire [31 : 0] mic_pcm_data;

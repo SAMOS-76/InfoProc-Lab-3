@@ -48,7 +48,7 @@
 
 
 // IP VLNV: xilinx.com:user:audio_direct:1.1
-// IP Revision: 9
+// IP Revision: 22
 
 `timescale 1ns/1ps
 

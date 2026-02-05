@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/soseb/Downloads/wetransfer_labs_2026-02-02_1352/PYNQ/boards/Pynq-Z1/base/myproj/project_1.runs/impl_1'
+HD_PWD='C:/Xilinx/PYNQ/boards/Pynq-Z1/base/InfoProc-Lab-3/myproj/project_1.runs/impl_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

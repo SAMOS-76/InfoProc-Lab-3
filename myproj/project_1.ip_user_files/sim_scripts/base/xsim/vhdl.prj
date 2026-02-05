@@ -1,7 +1,7 @@
 vhdl xil_defaultlib  \
 "../../../../project_1.gen/sources_1/bd/base/ip/base_rst_ps7_0_100M_0/sim/base_rst_ps7_0_100M_0.vhd" \
 "../../../../project_1.gen/sources_1/bd/base/ip/base_rst_ps7_0_100M_1_0/sim/base_rst_ps7_0_100M_1_0.vhd" \
-"../../../../project_1.gen/sources_1/bd/base/ip/base_pdm_microphone_0_2/ip/cic_compiler_0/sim/cic_compiler_0.vhd" \
 "../../../../project_1.gen/sources_1/bd/base/ip/base_axi_gpio_0_2/sim/base_axi_gpio_0_2.vhd" \
+"../../../../project_1.gen/sources_1/bd/base/ip/base_pdm_microphone_0_2/ip/cic_compiler_0/sim/cic_compiler_0.vhd" \
 
 nosort

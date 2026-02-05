@@ -1,6 +1,300 @@
 Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
 ------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 19:51:38 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 21) to (Rev. 22)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 19:18:13 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 20) to (Rev. 21)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 18:37:25 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 19) to (Rev. 20)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 18:17:33 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 18) to (Rev. 19)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 17:54:46 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 17) to (Rev. 18)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 17:29:10 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 16) to (Rev. 17)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 17:00:47 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 15) to (Rev. 16)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 16:35:58 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 14) to (Rev. 15)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 16:11:04 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 13) to (Rev. 14)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 15:50:17 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 12) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 15:34:40 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 15:12:57 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 10) to (Rev. 11)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 12:29:29 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_audio_direct_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_audio_direct_0_3 (xilinx.com:user:audio_direct:1.1) from (Rev. 9) to (Rev. 10)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Feb  5 11:39:22 2026
+| Host         : NH running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_pdm_microphone_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_pdm_microphone_0_2 (xilinx.com:user:pdm_microphone:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
 | Date         : Mon Feb  2 15:53:34 2026
 | Host         : DESKTOP-P70A3BJ running 64-bit major release  (build 9200)
 | Command      : upgrade_ip
