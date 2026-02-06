@@ -1,0 +1,55 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Jan 20 10:19:46 2026
+# Process ID: 10000
+# Current directory: C:/Xilinx/labs/merge_array/merge_array.runs/design_1_merge_array_0_0_synth_1
+# Command line: vivado.exe -log design_1_merge_array_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_merge_array_0_0.tcl
+# Log file: C:/Xilinx/labs/merge_array/merge_array.runs/design_1_merge_array_0_0_synth_1/design_1_merge_array_0_0.vds
+# Journal file: C:/Xilinx/labs/merge_array/merge_array.runs/design_1_merge_array_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source design_1_merge_array_0_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Xilinx/labs/ip_repo/merge_array_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+Command: synth_design -top design_1_merge_array_0_0 -part xc7z020clg400-1 -mode out_of_context
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7z020'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z020'
+INFO: [Device 21-403] Loading part xc7z020clg400-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 25916
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:02 . Memory (MB): peak = 1139.203 ; gain = 26.199
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'design_1_merge_array_0_0' [c:/Xilinx/labs/merge_array/merge_array.gen/sources_1/bd/design_1/ip/design_1_merge_array_0_0/synth/design_1_merge_array_0_0.v:57]
+INFO: [Synth 8-6157] synthesizing module 'merge_array_v1_0' [c:/Xilinx/labs/merge_array/merge_array.gen/sources_1/bd/design_1/ipshared/f6fc/hdl/merge_array_v1_0.v:4]
+	Parameter C_S00_AXI_DATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_S00_AXI_ADDR_WIDTH bound to: 5 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'merge_array_v1_0_S00_AXI' [c:/Xilinx/labs/merge_array/merge_array.gen/sources_1/bd/design_1/ipshared/f6fc/hdl/merge_array_v1_0_S00_AXI.v:4]
+	Parameter C_S_AXI_DATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_S_AXI_ADDR_WIDTH bound to: 5 - type: integer 
+	Parameter ADDR_LSB bound to: 2 - type: integer 
+	Parameter OPT_MEM_ADDR_BITS bound to: 2 - type: integer 
+INFO: [Synth 8-6157] synthesizing module 'mergeCore' [c:/Xilinx/labs/merge_array/merge_array.gen/sources_1/bd/design_1/ipshared/f6fc/src/mergeCore.v:1]
+	Parameter IDLE bound to: 0 - type: integer 
+	Parameter COMPARE bound to: 1 - type: integer 
+	Parameter FLUSH_FIFO bound to: 2 - type: integer 
+	Parameter WRITE bound to: 3 - type: integer 
+	Parameter DONE bound to: 4 - type: integer 
+ERROR: [Synth 8-439] module 'arrayFifo' not found [c:/Xilinx/labs/merge_array/merge_array.gen/sources_1/bd/design_1/ipshared/f6fc/src/mergeCore.v:108]
+ERROR: [Synth 8-6156] failed synthesizing module 'mergeCore' [c:/Xilinx/labs/merge_array/merge_array.gen/sources_1/bd/design_1/ipshared/f6fc/src/mergeCore.v:1]
+ERROR: [Synth 8-6156] failed synthesizing module 'merge_array_v1_0_S00_AXI' [c:/Xilinx/labs/merge_array/merge_array.gen/sources_1/bd/design_1/ipshared/f6fc/hdl/merge_array_v1_0_S00_AXI.v:4]
+ERROR: [Synth 8-6156] failed synthesizing module 'merge_array_v1_0' [c:/Xilinx/labs/merge_array/merge_array.gen/sources_1/bd/design_1/ipshared/f6fc/hdl/merge_array_v1_0.v:4]
+ERROR: [Synth 8-6156] failed synthesizing module 'design_1_merge_array_0_0' [c:/Xilinx/labs/merge_array/merge_array.gen/sources_1/bd/design_1/ip/design_1_merge_array_0_0/synth/design_1_merge_array_0_0.v:57]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:03 . Memory (MB): peak = 1194.234 ; gain = 81.230
+---------------------------------------------------------------------------------
+RTL Elaboration failed
+INFO: [Common 17-83] Releasing license: Synthesis
+13 Infos, 0 Warnings, 0 Critical Warnings and 6 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Synthesis failed - please see the console or run log file for details
+INFO: [Common 17-206] Exiting Vivado at Tue Jan 20 10:19:57 2026...
